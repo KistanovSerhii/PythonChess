@@ -12,3 +12,7 @@ https://github.com/ef-end-y/PythonLessons/blob/master/chess.py
 
 При помощи битборды (64 бита и битовые операции)
 https://www.youtube.com/watch?v=K0rp1vXV3Ek
+
+# Готовый движок по rest api "Underwater Chess API"
+
+https://fast-citadel-36391.herokuapp.com/
